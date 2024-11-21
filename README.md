@@ -74,14 +74,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=yurikamota&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=yurikamota&cache_seconds=86400&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikamota&theme=catppuccin_mocha&layout=compact&custom_title=Technologies&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikamota&cache_seconds=86400&theme=catppuccin_mocha&layout=compact&custom_title=Technologies&langs_count=8" 
   />
 
 </p>
