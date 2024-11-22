@@ -81,7 +81,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikamota&cache_seconds=86400&theme=catppuccin_mocha&layout=compact&custom_title=Technologies&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikamota&cache_seconds=86400&theme=catppuccin_mocha&layout=compact&custom_title=Technologies&langs_count=10" 
   />
 
 </p>
