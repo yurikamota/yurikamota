@@ -40,6 +40,15 @@
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Node.js" 
     title="Node.js"
     width="30px" 
@@ -81,7 +90,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikamota&cache_seconds=1800&theme=catppuccin_mocha&layout=compact&custom_title=Technologies&count_private=true&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikamota&cache_seconds=1800&theme=catppuccin_mocha&layout=compact&custom_title=Technologies&count_private=true&langs_count=12" 
   />
 
 </p>
