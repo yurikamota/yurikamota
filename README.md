@@ -83,7 +83,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=yurikamota&cache_seconds=600&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=yurikamota&cache_seconds=60&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&locale=en" 
   />
 
 <img 
