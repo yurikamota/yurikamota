@@ -13,7 +13,7 @@
 
 ## 🙋 About Me
 
-I'm a front-end developer currently studying **Systems Analysis and Development**, passionate about building interactive and visually engaging web experiences. I love turning ideas into real products — from business tools to mystical tarot sites.
+I'm a software developer currently studying **Systems Analysis and Development**, passionate about building interactive and visually engaging web experiences. I love turning ideas into real products — from business tools to mystical tarot sites.
 
 - 🌱 Always learning — currently diving deeper into **React** and **Node.js**
 - 💼 Open to **freelance** and **front-end collaboration** opportunities
@@ -37,7 +37,7 @@ I'm a front-end developer currently studying **Systems Analysis and Development*
 
 ---
 
-### 🌐 SM Hair Design — Landing Page *(coming soon)*
+### 🌐 SM Hair Design — Web Site *(coming soon)*
 > A modern, conversion-focused landing page for SM Hair Design to showcase services, boost online presence and attract new clients.
 
 **Tech Stack:**
@@ -83,16 +83,6 @@ I'm a front-end developer currently studying **Systems Analysis and Development*
 
 <div align="center">
 
-<img 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=yurikamota&cache_seconds=60&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&locale=en" 
-/>
-<img 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikamota&cache_seconds=600&theme=catppuccin_mocha&layout=compact&custom_title=Technologies&count_private=true&langs_count=12" 
-/>
 
 <br/>
 
