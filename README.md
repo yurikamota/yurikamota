@@ -33,7 +33,7 @@ I'm a front-end developer currently studying **Systems Analysis and Development*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Ver Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-181717?style=for-the-badge&logo=github)](https://github.com/yurikamota/cash_flow_web_system)
+[![Check Project](https://img.shields.io/badge/GitHub-Ver%20Repositório-181717?style=for-the-badge&logo=github)](https://github.com/yurikamota/cash_flow_web_system)
 
 ---
 
