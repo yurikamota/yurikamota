@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yurika+Mota+%F0%9F%91%8B;Software+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yurika+Mota+%F0%9F%91%8B;" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yurikamota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurikamota/)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=yurikamota&theme=dark)
 
 </div>
 
