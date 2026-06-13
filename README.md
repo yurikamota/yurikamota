@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yurikamota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurikamota/)
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=yurikamota&theme=dark)
+[![LeetCode](https://img.shields.io/badge/LeetCode-yurikamota-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yurikamota/)
 
 </div>
 
